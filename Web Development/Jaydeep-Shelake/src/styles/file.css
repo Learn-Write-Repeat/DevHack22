@@ -1,0 +1,27 @@
+@import "./vars.css";
+.file {
+  width: 170px;
+  height: 150px;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 8px 16px rgb(0 0 0 / 8%);
+  border: 1px solid rgba(212, 212, 212, 0.575);
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+  color: var(--text-gary);
+}
+
+.file p {
+  font-size: 14px;
+  width: 100%;
+  text-align: center;
+  margin: 10px 0;
+}
+.file img {
+  width: 70px;
+  height: 70px;
+}

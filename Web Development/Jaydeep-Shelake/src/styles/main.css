@@ -1,0 +1,228 @@
+.main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.files-area {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.chat-area {
+  width: 26%;
+  height: 100vh;
+  background: rgb(236, 235, 235);
+  border-left: 1px solid rgba(212, 212, 212, 0.575);
+  position: relative;
+}
+.files-area {
+  width: 40%;
+
+  padding: 30px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+.routes {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid rgba(212, 212, 212, 0.575);
+
+  border-radius: 6px;
+  color: #3656db;
+}
+.routes nav {
+  margin-left: 30px;
+}
+.all-files {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: 600px;
+  overflow-y: auto;
+  width: 100%;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(212, 212, 212, 0.575);
+  position: relative;
+}
+.folder-container {
+  width: 20%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  border-left: 1px solid rgba(212, 212, 212, 0.575);
+  border-right: 1px solid rgba(212, 212, 212, 0.575);
+  padding: 20px;
+}
+.folder-area {
+  width: 100%;
+  margin-top: 3rem;
+}
+.side-bar {
+  width: 14%;
+  height: 100vh;
+  background: #3656db;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  position: relative;
+}
+.folder-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  width: 90%;
+  border: 1px solid rgba(212, 212, 212, 0.575);
+}
+.folder-header h4 {
+  color: #3656db;
+}
+.btns {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.btns button,
+.btns label {
+  outline: none;
+  border: none;
+  background: #3678db75;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 5px;
+  color: #3656db;
+  border-radius: 3px;
+}
+.menu-area {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 3rem;
+}
+.menu-area a {
+  width: 100%;
+  text-decoration: none;
+}
+.menu {
+  width: 90%;
+  padding: 10px;
+  color: #fff;
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: 3px;
+}
+.menu.chat {
+  display: none;
+}
+.menu:hover,
+.menu.active {
+  background: #3678db75;
+}
+.menu svg {
+  margin-right: 10px;
+}
+.logout {
+  position: absolute;
+  bottom: 30px;
+}
+.user-info {
+  width: 100%;
+  background: #fff;
+  height: 80px;
+  padding: 10px;
+}
+.user-info img {
+  height: 30px;
+  width: 30px;
+}
+.chat-msg-area {
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #3656db;
+}
+.chat {
+  height: 70%;
+}
+.chat .input {
+  width: 26%;
+  height: 80px;
+  background: #fff;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: fixed;
+  bottom: 0px;
+  right: 0;
+}
+.chat .input input {
+  width: 75%;
+  padding: 10px;
+  border-radius: 2px;
+  border: none;
+  outline: none;
+  background: rgb(228, 228, 228);
+}
+
+.send-btn {
+  background: #3656db;
+  color: #fff;
+  margin-left: 10px;
+  border: none;
+  outline: none;
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+.msg-2 {
+  max-width: 150px;
+  width: auto;
+  margin-bottom: 12px;
+  line-height: 24px;
+  padding: 10px 20px;
+  border-radius: 25px;
+  position: relative;
+  color: white;
+  text-align: center;
+  display: flex;
+}
+.send {
+  flex-direction: row-reverse;
+  color: white;
+  background: #3d61f19f;
+  margin-right: 20px;
+  align-self: flex-end;
+}
+.rechive {
+  background: #c4c4c4;
+  color: black;
+  margin: 10px 0;
+  margin-left: 20px;
+}
