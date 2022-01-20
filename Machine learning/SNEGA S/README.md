@@ -27,7 +27,7 @@
   - Naive Bayes
   - K Nearest Neighbors
   
-  <p> The accuracy of all the algorithms were compared </p>
+ ## Accuracy
   - Random Forest : 100%
   - Naive Bayes : 76%
   - Decision Trees : 98%
