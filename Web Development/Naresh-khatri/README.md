@@ -1,6 +1,7 @@
 <h2>Share Notes 🙌</h2>
 
 Demo : https://youtu.be/73hNUHn15DU
+<br>
 Web page : https://naresh-khatri.github.io/devHack-notes-app/#/chat
 
 <h3>📚 Technologies used</h3>
