@@ -13,8 +13,8 @@ Demo : https://youtu.be/73hNUHn15DU
 <h3>📜 features </h3>
 <ul>
   <li> Intuitve chat </li>
-  <li> Documents upload </li>
+  <li> Document uploading </li>
   <li> Easy authentication </li>
   <li> Profile Editing </li>
-  <li> View others profiles </li>
+  <li> View other's profiles </li>
 </ul>
