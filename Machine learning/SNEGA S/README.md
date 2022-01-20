@@ -2,7 +2,7 @@
 
 <img src = "https://github.com/snega16/DevHack22/blob/patch-2/Machine%20learning/SNEGA%20S/Images/img1%20(2).jpg">
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+<p align="center"> [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) </p>
 
 ## Problem Statement:
 <p> For criminological investigations, the glass piece left over can be useful. If we identify the type of glass, it can be used as evidence. </p>
