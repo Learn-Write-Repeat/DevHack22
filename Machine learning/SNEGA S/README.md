@@ -2,7 +2,14 @@
 
 <img src = "https://github.com/snega16/DevHack22/blob/patch-2/Machine%20learning/SNEGA%20S/Images/img1%20(2).jpg">
 
-<p align="center"> [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) </p>
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+ 
+<h3 align="left">Technologies:-</h3>
+<p align="left">
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" alt="pandas" width="40"></a>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a>
 
 ## Problem Statement:
 <p> For criminological investigations, the glass piece left over can be useful. If we identify the type of glass, it can be used as evidence. </p>
