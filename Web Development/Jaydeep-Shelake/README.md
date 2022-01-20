@@ -48,6 +48,6 @@
 ### Deployment Link : https://auth-83ed4.web.app
 
 ## Author
-Name: Jaydeep Hindurao Shelake
-email: jaydeepshelake10@gmail.com
+Name: Jaydeep Hindurao Shelake <br>
+email: jaydeepshelake10@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/jaydeep-shelake-a348771b2/
