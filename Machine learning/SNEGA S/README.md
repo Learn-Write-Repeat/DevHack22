@@ -28,10 +28,10 @@
   - K Nearest Neighbors
   
   <p> The accuracy of all the algorithms were compared </p>
-  - Random Forest - 100%
-  - Naive Bayes - 76%
-  - Decision Trees - 98%
-  - KNN - 96%
+  - Random Forest : 100%
+  - Naive Bayes : 76%
+  - Decision Trees : 98%
+  - KNN : 96%
   
   <p> Upon all algorithms Random Forest and Decision Tree gave almost 100% accuracy. It may change between 98%-100% on cross validation <p>
  
