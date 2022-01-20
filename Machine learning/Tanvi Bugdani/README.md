@@ -57,7 +57,6 @@ Here, I have used mainly 3 classification algorithms and compared them to select
 Looking at the accuracy and confusion matrix of each of the model, we can say that the **random forest classifier suits our case the best**.
 
 <h3> Demo Video Link </h3>
-
 [Click here](https://youtu.be/7u4NLCZtUk0)
 
 Domain: Machine Learning
