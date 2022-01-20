@@ -55,7 +55,7 @@
   </table>
  
  ## Submitted to Devhack by DevIncept
- <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fcompany%2Fdevincept&psig=AOvVaw2iD3ilFw8HzQpysfUREcWe&ust=1642752472214000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCks-Tvv_UCFQAAAAAdAAAAABAT">
+ <img src = "https://media-exp1.licdn.com/dms/image/C4E1BAQHsnVA-oQBYGA/company-background_10000/0/1624557363655?e=2159024400&v=beta&t=zFu9Vz58mlxV8xXkFmZ5qfP-K6BWPA24-dgEdOBL7sQ">
  
 
  
