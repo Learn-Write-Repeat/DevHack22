@@ -1,26 +1,20 @@
-# Mummy ne nhi sikhaya? Sharing is caring. (d2c-notes-frontend)
+<h2>Share Notes 🙌</h2>
 
-Mummy ne nhi sikhaya? Sharing is caring.
+Demo : https://youtu.be/73hNUHn15DU
 
-## Install the dependencies
-```bash
-yarn
-```
+<h3>📚 Technologies used</h3>
+<ul>
+<li>Front end            : Quasar framework (based on Vue.js)</li>
+<li>Backend             : Nodejs</li>
+<li>Database            : MongoDB</li>
+<li>Development Tool    : VS Code</li>
+</ul>
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-### Lint the files
-```bash
-yarn run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+<h3>📜 features </h3>
+<ul>
+  <li> Intuitve chat </li>
+  <li> Documents upload </li>
+  <li> Easy authentication </li>
+  <li> Profile Editing </li>
+  <li> View others profiles </li>
+</ul>
