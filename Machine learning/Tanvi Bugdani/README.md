@@ -24,6 +24,8 @@ The dataset consists of 214 records in total. It contains 9 (independent) featur
 
 7. headlamps
 
+Since, there is no record of type 4 glass in the given dataset, we are left with only 6 types.
+
 <h3> Algorithms used: </h3>
 Here, I have used mainly 3 classification algorithms and compared them to select the most suitable one for the case.
 
@@ -31,20 +33,25 @@ Here, I have used mainly 3 classification algorithms and compared them to select
 
 `Accuracy: 0.813953488372093`
 
-Confusion Matrix: <img src = "https://github.com/tanvi355/DevHack22/blob/main/Machine%20learning/Tanvi%20Bugdani/images/rf_cm.PNG">
+`Confusion Matrix:`
+<br><br>
+<img src = "../main/images/rf_cm.PNG">
 
 2. **Decision Tree Classifier**
 
 `Accuracy: 0.7209302325581395`
 
-Confusion Matrix: <img src = "https://github.com/tanvi355/DevHack22/blob/main/Machine%20learning/Tanvi%20Bugdani/images/dt_cm.PNG">
+`Confusion Matrix:`
+<br><br>
+<img src = "../main/images/dt_cm.PNG">
 
 3. **K Nearest Neighbors Classifier**
 
 `Accuracy: 0.6976744186046512`
 
-Confusion Matrix: <img src = "https://github.com/tanvi355/DevHack22/blob/main/Machine%20learning/Tanvi%20Bugdani/images/knn_cm.PNG">
-
+`Confusion Matrix: `
+<br><br>
+<img src = "../main/images/knn_cm.PNG">
 <h3> Conclusion: </h3>
 
 Looking at the accuracy and confusion matrix of each of the model, we can say that the **random forest classifier suits our case the best**.
