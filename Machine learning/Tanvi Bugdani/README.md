@@ -35,7 +35,7 @@ Here, I have used mainly 3 classification algorithms and compared them to select
 
 `Confusion Matrix:`
 <br><br>
-<img src = ".../images/rf_cm.PNG">
+<img src = "rf_cm.PNG">
 
 2. **Decision Tree Classifier**
 
@@ -43,7 +43,7 @@ Here, I have used mainly 3 classification algorithms and compared them to select
 
 `Confusion Matrix:`
 <br><br>
-<img src = "../images/dt_cm.PNG">
+<img src = "dt_cm.PNG">
 
 3. **K Nearest Neighbors Classifier**
 
@@ -51,7 +51,7 @@ Here, I have used mainly 3 classification algorithms and compared them to select
 
 `Confusion Matrix: `
 <br><br>
-<img src = "../images/knn_cm.PNG">
+<img src = "knn_cm.PNG">
 
 <h3> Conclusion: </h3>
 
