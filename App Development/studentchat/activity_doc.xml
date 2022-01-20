@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".DocActivity">
+<LinearLayout
+    android:elevation="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/white">
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_marginLeft="5dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/left"
+        android:id="@+id/back_d"
+        android:padding="5dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Documents"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"/>
+</LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/doc_rcy"
+        android:layout_marginTop="51dp"
+        android:padding="5dp"/>
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:id="@+id/progress_bar_doc"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"/>
+</RelativeLayout>
