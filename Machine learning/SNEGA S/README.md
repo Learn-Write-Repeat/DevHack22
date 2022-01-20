@@ -55,7 +55,7 @@
   </table>
  
  ## Submitted to Devhack by DevIncept
- <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.devincept.com%2F&psig=AOvVaw2iD3ilFw8HzQpysfUREcWe&ust=1642752472214000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCks-Tvv_UCFQAAAAAdAAAAABAJ">
+ <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fcompany%2Fdevincept&psig=AOvVaw2iD3ilFw8HzQpysfUREcWe&ust=1642752472214000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCks-Tvv_UCFQAAAAAdAAAAABAT">
  
 
  
