@@ -8,8 +8,6 @@ Libraries Required:
 
 1.Pandas
 2.Numpy
-3.Matplotlib.pyplot
-4.Seaborn
-5.Sklearn
-6.SciPy
+3.Sklearn
+
 https://drive.google.com/drive/folders/1dJyy0YTMTmJzPQPONV4F-cGQ8f6KIFeS?usp=sharing
