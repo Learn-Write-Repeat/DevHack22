@@ -13,13 +13,15 @@ https://archive.ics.uci.edu/ml/datasets/glass+identification
 
 
 ### Modules involved:
-1. Loading Data from the dataset link and creating the dataframe
-2. Data Preprocessing by removing unwanted data and checking for missing values
-3. Exploratory Data Analysis
-4. Performing Smote Analysis to balance data
-5. Building and Training multiple ML models
-6. Models performance comparision
-7. Evaluating model for overfitting using cross validation
-8. Checking the accuracy of the Random forest classifier 
+1. Import libraries required
+2. Loading Data from the dataset link and creating the dataframe
+3. Data Preprocessing by removing unwanted data and checking for missing values
+4. Exploratory Data Analysis
+5. Performing Smote Analysis to balance data
+6. Splitting the dataset into train and test sets
+7. Building and Training multiple ML models
+8. Models performance comparision
+9. Evaluating model for overfitting using cross validation
+10. Checking the accuracy of the Random forest classifier 
 ### Result:
 #### Random Forest Classfier is the best model for the given dataset with an accuracy of 89%.
