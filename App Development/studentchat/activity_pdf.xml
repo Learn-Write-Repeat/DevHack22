@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pdfActivity">
+    <TextView
+
+        android:layout_width="fill_parent"
+        android:id="@+id/tooo2"
+        android:layout_marginTop="50dp"
+        android:gravity="center_horizontal"
+        android:text="Downloading..."
+        android:textSize="18dp"
+        android:textColor="#4CAF50"
+
+
+        android:layout_height="wrap_content"/>
+    <SeekBar
+        android:id="@+id/seekbar"
+        android:layout_below="@+id/tooo2"
+        android:layout_width="match_parent"
+        android:outlineAmbientShadowColor="#673AB7"
+        android:outlineSpotShadowColor="#3F51B5"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/txtview"
+        android:layout_below="@+id/seekbar"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/design_default_color_on_secondary"
+        android:textSize="20sp"
+
+        />
+    <com.github.barteksc.pdfviewer.PDFView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:id="@+id/pdfView"
+
+
+        />
+</RelativeLayout>
