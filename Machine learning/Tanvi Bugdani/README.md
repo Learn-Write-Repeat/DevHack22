@@ -35,7 +35,7 @@ Here, I have used mainly 3 classification algorithms and compared them to select
 
 `Confusion Matrix:`
 <br><br>
-<img src = "../main/Machine learning/Tanvi Bugdani/images/rf_cm.PNG">
+<img src = "https://github.com/tanvi355/DevHack22/blob/main/Machine%20learning/Tanvi%20Bugdani/images/rf_cm.png">
 
 2. **Decision Tree Classifier**
 
@@ -43,7 +43,7 @@ Here, I have used mainly 3 classification algorithms and compared them to select
 
 `Confusion Matrix:`
 <br><br>
-<img src = "../main/Machine learning/Tanvi Bugdani/images/dt_cm.PNG">
+<img src = "https://github.com/tanvi355/DevHack22/blob/main/Machine%20learning/Tanvi%20Bugdani/images/dt_cm.png">
 
 3. **K Nearest Neighbors Classifier**
 
@@ -51,7 +51,8 @@ Here, I have used mainly 3 classification algorithms and compared them to select
 
 `Confusion Matrix: `
 <br><br>
-<img src = "../images/knn_cm.PNG">
+<img src = "https://github.com/tanvi355/DevHack22/blob/main/Machine%20learning/Tanvi%20Bugdani/images/knn_cm.png">
+
 <h3> Conclusion: </h3>
 
 Looking at the accuracy and confusion matrix of each of the model, we can say that the **random forest classifier suits our case the best**.
