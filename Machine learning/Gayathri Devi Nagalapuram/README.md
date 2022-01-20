@@ -20,7 +20,6 @@ https://archive.ics.uci.edu/ml/datasets/glass+identification
 5. Building and Training multiple ML models
 6. Models performance comparision
 7. Evaluating model for overfitting using cross validation
-8. Checking the accuracy
-
+8. Checking the accuracy of the Random forest classifier 
 ### Result:
 #### Random Forest Classfier is the best model for the given dataset with an accuracy of 89%.
