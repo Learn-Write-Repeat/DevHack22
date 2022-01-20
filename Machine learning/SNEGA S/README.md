@@ -46,7 +46,7 @@
   <p> Upon all algorithms Random Forest and Decision Tree gave almost 100% accuracy. It may change between 98%-100% on cross validation <p>
  
  <h3 align="left">Explanation Video:</h3>
- [Click Here!](https://youtu.be/DZ9LVozIX08)
+ <a href="https://youtu.be/DZ9LVozIX08">Click Here!</a>
 
  
  ## 👨‍💻 Developed By
