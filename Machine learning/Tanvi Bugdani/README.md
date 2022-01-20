@@ -51,12 +51,13 @@ Here, I have used mainly 3 classification algorithms and compared them to select
 
 `Confusion Matrix: `
 <br><br>
-<img src = "../main/Machine learning/Tanvi Bugdani/images/knn_cm.PNG">
+<img src = "../images/knn_cm.PNG">
 <h3> Conclusion: </h3>
 
 Looking at the accuracy and confusion matrix of each of the model, we can say that the **random forest classifier suits our case the best**.
 
 <h3> Demo Video Link </h3>
+
 [Click here](https://youtu.be/7u4NLCZtUk0)
 
 Domain: Machine Learning
