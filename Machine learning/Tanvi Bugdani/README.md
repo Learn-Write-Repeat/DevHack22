@@ -35,7 +35,7 @@ Here, I have used mainly 3 classification algorithms and compared them to select
 
 `Confusion Matrix:`
 <br><br>
-<img src = "https://github.com/tanvi355/DevHack22/blob/main/Machine%20learning/Tanvi%20Bugdani/images/rf_cm.png">
+<img src = "../main/images/rf_cm.png">
 
 2. **Decision Tree Classifier**
 
@@ -43,7 +43,7 @@ Here, I have used mainly 3 classification algorithms and compared them to select
 
 `Confusion Matrix:`
 <br><br>
-<img src = "https://github.com/tanvi355/DevHack22/blob/main/Machine%20learning/Tanvi%20Bugdani/images/dt_cm.png">
+<img src = "../main/images/dt_cm.png">
 
 3. **K Nearest Neighbors Classifier**
 
@@ -51,7 +51,7 @@ Here, I have used mainly 3 classification algorithms and compared them to select
 
 `Confusion Matrix: `
 <br><br>
-<img src = "https://github.com/tanvi355/DevHack22/blob/main/Machine%20learning/Tanvi%20Bugdani/images/knn_cm.png">
+<img src = "../main/images/knn_cm.png">
 
 <h3> Conclusion: </h3>
 
