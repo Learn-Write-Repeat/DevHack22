@@ -48,7 +48,7 @@ As Our Random Forest Classifier produced the best accuracy on test data, therefo
 
 
 ## Explanatory Video
-<h2 align="left">Explanation Video:</h2>
+<h1 align="left">Explanation Video:</h1>
  <a href="https://youtu.be/BmfIpTmAcnI">Click Me!</a>
 
 ## Contributor
