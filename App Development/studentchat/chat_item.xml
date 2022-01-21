@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <androidx.cardview.widget.CardView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        app:cardCornerRadius="5dp"
+        android:backgroundTint="#12BB86FC"
+        android:layout_margin="5dp"
+        android:padding="10dp">
+        <LinearLayout
+            android:padding="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/chat_name"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Biswajit sahu"
+                android:textColor="#D3000000"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/chat_msg"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+    <TextView
+        android:id="@+id/chat_date"
+        android:paddingLeft="5dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:textSize="14dp"
+        android:text="20/22/2020"
+        android:textColor="#A3000000"/>
+</LinearLayout>
+

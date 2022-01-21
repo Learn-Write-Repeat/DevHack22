@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.logo {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 3rem;
+}
+.logo img {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.logo h5 {
+  color: #fff;
+  margin-bottom: 0px !important;
+}
+p {
+  margin-bottom: 0px !important;
+}
+
+@media (max-width: 1278px) {
+  .chat-area {
+    display: none;
+  }
+  .files-area {
+    width: 53%;
+  }
+  .folder-container {
+    width: 33%;
+  }
+}
+@media (max-width: 790px) {
+  .chat-page {
+    display: block;
+    width: 100%;
+  }
+  .chat-page .input {
+    width: 100%;
+  }
+  .side-bar {
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: -230px;
+    z-index: 999;
+    transition: all 0.3s ease-in-out;
+  }
+  .side-bar.show {
+    left: 0px;
+    transition: all 0.3s ease-in-out;
+  }
+  .files-area {
+    width: 60%;
+  }
+  .folder-container {
+    width: 40%;
+    height: auto;
+  }
+  .menu.chat {
+    display: flex;
+  }
+  .meun-btn,
+  .close {
+    display: flex;
+  }
+}
+@media (max-width: 655px) {
+  .main {
+    flex-direction: column;
+  }
+  .files-area {
+    width: 100%;
+  }
+  .folder-container {
+    width: 100%;
+  }
+  .side-bar {
+    width: 100%;
+    left: -100%;
+  }
+}
+@media (max-width: 405px) {
+  .chat-page .input input {
+    width: 70%;
+  }
+}

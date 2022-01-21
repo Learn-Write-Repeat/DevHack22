@@ -1,0 +1,50 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * neue-kabel:
+ *   - http://typekit.com/eulas/00000000000000007735baff
+ *   - http://typekit.com/eulas/00000000000000007735bb00
+ *   - http://typekit.com/eulas/00000000000000007735bb06
+ *   - http://typekit.com/eulas/00000000000000007735bb1c
+ *   - http://typekit.com/eulas/00000000000000007735bb22
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-01-23 08:50:02 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=pza8bhe&ht=tk&f=39530.39532.39534.39541.39543&a=9289726&app=typekit&e=css");
+
+@font-face {
+font-family:"neue-kabel";
+src:url("https://use.typekit.net/af/d8a594/00000000000000007735baff/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/d8a594/00000000000000007735baff/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/d8a594/00000000000000007735baff/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"neue-kabel";
+src:url("https://use.typekit.net/af/48d5ac/00000000000000007735bb00/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/48d5ac/00000000000000007735bb00/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/48d5ac/00000000000000007735bb00/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:500;
+}
+
+@font-face {
+font-family:"neue-kabel";
+src:url("https://use.typekit.net/af/b803c2/00000000000000007735bb06/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff2"),url("https://use.typekit.net/af/b803c2/00000000000000007735bb06/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff"),url("https://use.typekit.net/af/b803c2/00000000000000007735bb06/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:800;
+}
+
+@font-face {
+font-family:"neue-kabel";
+src:url("https://use.typekit.net/af/ff0205/00000000000000007735bb1c/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/ff0205/00000000000000007735bb1c/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/ff0205/00000000000000007735bb1c/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:600;
+}
+
+@font-face {
+font-family:"neue-kabel";
+src:url("https://use.typekit.net/af/7619b7/00000000000000007735bb22/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/7619b7/00000000000000007735bb22/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/7619b7/00000000000000007735bb22/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:400;
+}
+
+.tk-neue-kabel { font-family: "neue-kabel",sans-serif; }
